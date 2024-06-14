@@ -1,6 +1,6 @@
 job:
  - title
- - lication
+ - location
  - job type
  - description
  - published at
