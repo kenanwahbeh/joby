@@ -30,3 +30,9 @@ contact:
 home:
 
 login:
+
+
+url : path
+view : logec 
+models : db
+templates : frontend
